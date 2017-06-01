@@ -1,0 +1,24 @@
+                             Cricket Score Board                   
+
+		pakistan wins by 2 wickets
+
+
+		Team india won toss
+		Total Run of Team india is 11 & Run of Team pakistan is 12
+		Given Extra by Team india is 0 runs & Team pakistan is 0
+
+		
+Partnership between iqbal & dhoni > 11
+		
+Partnership between dhoni & kohli > 0
+
+
+		Batting innings of two teams:
+		1. dhoni: 5		1. sayeed: 5
+		2. iqbal: 6		2. ajmal: 7
+		3. kohli: 0		3. kashif: 0
+
+		Bowling innings of two teams:
+		1. dhoni: 12/0 from 0.5 overs  |		1. sayeed: 11/1 from 0.5 overs
+		2. iqbal: 0/0 from 0.0 overs  |		2. ajmal: 0/1 from 0.0 overs
+		3. kohli: 0/0 from 0.0 overs  |		3. kashif: 0/0 from 0.0 overs
